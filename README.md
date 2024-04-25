@@ -8,4 +8,4 @@
 ![test](test.gif)
 
 # Training Plot
-![train](training.png)
+![train](plot.png)
